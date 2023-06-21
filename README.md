@@ -1,2 +1,7 @@
 # Clase10
-Primer repositorio
+
+Mi primer repositorio
+
+Step by step github
+
+Activity No. 2: Provide changes, add more lines and commit changes
