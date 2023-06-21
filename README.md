@@ -1,6 +1,6 @@
 # Clase10
 
-Mi primer repositorio
+My first repository
 
 Step by step github
 
