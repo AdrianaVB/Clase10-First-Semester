@@ -1,4 +1,4 @@
-# Clase10
+# Clase10 First Semester
 
 My first repository
 
